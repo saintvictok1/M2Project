@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">KSV APP</string>
+    <string name="make_selection">Make a selection to continue.</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="register_header">Registration</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="dob">Date of Birth</string>
+    <string name="Email">Email</string>
+    <string name="Password">Password</string>
+
+
+
+</resources>
